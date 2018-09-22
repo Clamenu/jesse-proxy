@@ -10,16 +10,30 @@
   position: absolute;
   margin: 0 auto;
   width: 100%;
-  height: 382px;
+  height: 437px;
 }
 
 #upperhalf {
   position: relative;
   bottom: 81px;
+  width: 75%;
+  margin: -22px auto;
 }
 
 #lowerhalf {
   display: flex;
   flex-direction: row-reverse;
   justify-content: center;
+}
+
+#photo-wheel {
+  margin: 0 -2%;
+}
+
+.main__mapContainer___2XcIT {
+  margin-top: -5%;
+}
+
+.main__headerContainer___WtLe_ {
+  margin-bottom: 9% !important;
 }
